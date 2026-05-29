@@ -1,15 +1,10 @@
-# Maurice Rahme
-
-Building humanoids to protect humans.
+# Building humanoids to protect humans.
 
 CTO @ [Minerva Humanoids](https://github.com/minervahumanoids).
 Previously Manipulation @ Boston Dynamics. I work across whole-body
 controls, dexterous manipulation, teleoperation, motion retargeting, and
 sim-to-real robot learning.
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moribots&theme=github_dark" alt="Maurice's GitHub contribution summary" />
-</p>
 
 ## Current Work
 
