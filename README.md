@@ -8,7 +8,7 @@ controls, dexterous manipulation, teleoperation, motion retargeting, and
 sim-to-real robot learning.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=moribots&show_icons=true&theme=transparent&hide_border=true" alt="Maurice's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moribots&theme=github_dark" alt="Maurice's GitHub contribution summary" />
 </p>
 
 ## Current Work
